@@ -1,7 +1,8 @@
 ### Hi there 👋
-Cetin Cetindag, born in 1997. I use vim BTW. Jazz piano player on the side, most probably my one and only hobby that I keep to this day.
+Cetin Cetindag, born in 1997. I use vim BTW. Jazz pianist on the side in case ChatGPT finally learns to code. I heard it is bad with hands.
 
+## Abusing C++ until it depreciates into C--
+# I used an IDE once, threw up multiple times
 
-- I’m currently working on learning as much of anything as possible
-- Pronouns: He / Him
-- Note to self: you are not bright enough to write a faster standart library, just use stdlib 
+- Note to self: you are not bright enough to write a faster standart library, just use the standart ones ffs. 
+- I also use Arch BTW. 
