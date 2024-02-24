@@ -1,11 +1,10 @@
-# Identity Card:
-Name: Cetin Cetindag
-Age: 27 (1997)
-Gender: Male
-Nationality: Turkey
-Languages: C++, C#, TypeScript, Python
-Frameworks: React, Next.js, Svelte
-Personal Website: https://cetincetindag.com
-
-## unsatiable desire of learning.
+## Identity Card:
+ **Name**: Cetin Cetindag
+ **Age**: 27 (1997)
+ **Gender**: Male
+ **Nationality**: Turkey
+ **Languages**: C++, C#, TypeScript, Python
+ **Frameworks**: React, Next.js, Svelte
+ **Personal Website**: *https://cetincetindag.com*
+#### unsatiable desire of learning.
 
