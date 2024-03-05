@@ -9,8 +9,7 @@
  
 - **Languages**:
 
-    - C/C++
-  	- C#
+   - C/C++
   	- JavaScript / TypeScript
   	- Python
  
