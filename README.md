@@ -13,7 +13,7 @@
   	- JavaScript / TypeScript
   	- Python
  
-- **Frameworks**: React, Next.js, Svelte
+- **Frameworks**: React, Svelte
  
 - **Personal Website**: *https://cetincetindag.com*
  
