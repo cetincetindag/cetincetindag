@@ -2,7 +2,7 @@
 - **Name**: Cetin Cetindag
 
 - **Age**: 27 (1997)
-- 
+  
 - **Nationality**: Turkey
  
 - **Languages**:
