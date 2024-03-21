@@ -2,20 +2,16 @@
 - **Name**: Cetin Cetindag
 
 - **Age**: 27 (1997)
- 
-- **Gender**: Male
- 
+- 
 - **Nationality**: Turkey
  
 - **Languages**:
 
-   - C/C++
-  	- JavaScript / TypeScript
+   - C++
+  	- TypeScript
   	- Python
  
-- **Frameworks**: React, Svelte
- 
-- **Personal Website**: *https://cetincetindag.com*
- 
-#### unsatiable desire of learning.
+- **Frameworks**:
 
+  - Vite
+  - Next.js
