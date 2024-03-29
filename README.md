@@ -14,7 +14,6 @@ Self-taught developer with endless passion for technology<br>Currently working w
 #
 ![](https://github-profile-trophy.vercel.app/?username=cetincetindag&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-### QOTD
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
